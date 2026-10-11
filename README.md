@@ -22,9 +22,9 @@ I hate shitty low-bitrate streams. This thing focuses on high-quality audio and 
 3. Run it, install it, listen to it. Standard Windows stuff.
 
 #### For Nerds (The "I want to see the mess" way)
-1. Clone this junk:
+1. Clone this project:
 ```bash
-git clone https://github.com/username/radioflow.git
+git clone https://github.com/uygarvc/radioflow.git
 ```
 2. Install the heavy node_modules:
 ```bash
